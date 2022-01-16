@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 I am an ML guy
 Only working on Computer Vision tasks
 I am looking to share my experience on different tasks of CV
-I work on CV--> Image Classification<br>
+<!--I work on CV--> Image Classification<br>
             |--> Object Detection<br>
             |--> Image Segmentation --> Semantic Segmentation<br>
             |                       |-> Instance Segmentation<br>
             |                       | Panoptic Segmentation<br>
             |--> Object Tracking
-
+ -->
+<pre>
 .
 └── COMPUTER VISION/
     ├── Image Classification/
@@ -38,3 +39,4 @@ I work on CV--> Image Classification<br>
     └── Object Tracking/
         ├── Correlation Based Object Tracking
         └── LSTM Based Object Tracking
+</pre>
