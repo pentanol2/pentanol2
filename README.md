@@ -30,10 +30,7 @@ I work on CV -- Image Classification<br>
 <pre>
 .
 └── COMPUTER VISION/
-    ├── Image Classification/
-    │   └── tree/
-    │       ├── diagram!
-    │       └── :)
+    ├── Image Classification
     ├── Object Detection
     ├── Image Segmentation/
     │   ├── Semantic Segmentation
