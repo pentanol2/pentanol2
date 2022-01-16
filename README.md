@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 I am an ML guy
 Only working on Computer Vision tasks
 I am looking to share my experience on different tasks of CV
-<!-- I work on CV---> Image Classification<br>
+
+<!-- 
+I work on CV---> Image Classification<br>
             -- Object Detection<br>
             -- Image Segmentation -- Semantic Segmentation<br>
                                   -- Instance Segmentation<br>
