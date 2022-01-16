@@ -23,3 +23,18 @@ I work on CV--> Image Classification<br>
             |                       |-> Instance Segmentation<br>
             |                       | Panoptic Segmentation<br>
             |--> Object Tracking
+
+.
+└── COMPUTER VISION/
+    ├── Image Classification/
+    │   └── tree/
+    │       ├── diagram!
+    │       └── :)
+    ├── Object Detection
+    ├── Image Segmentation/
+    │   ├── Semantic Segmentation
+    │   ├── Instance Segmentation
+    │   └── Panoptic Segmentation
+    └── Object Tracking/
+        ├── Correlation Based Object Tracking
+        └── LSTM Based Object Tracking
