@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ML Fanatics 👋👋👋
 
 <!--
 **pentanol2/pentanol2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am an ML guy
+Only working on Computer Vision tasks
+I am looking to share my experience on different tasks of CV
+I work on CV--> Image Classification
+            |--> Object Detection
+            |--> Image Segmentation --> Semantic Segmentation
+            |                       |-> Instance Segmentation
+            |                       | Panoptic Segmentation
+            |--> Object Tracking
