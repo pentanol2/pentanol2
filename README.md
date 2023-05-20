@@ -39,4 +39,7 @@ I work on CV -- Image Classification<br>
     └── Object Tracking/
         ├── Correlation Based Object Tracking
         └── LSTM Based Object Tracking
+    └── Super Resolution/
+        ├── Video Super Resolution
+        └── Image Super Resolution
 </pre>
