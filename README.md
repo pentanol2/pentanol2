@@ -43,3 +43,4 @@ I work on CV -- Image Classification<br>
         ├── Video Super Resolution
         └── Image Super Resolution
 </pre>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pentanol2&layout=compact)
